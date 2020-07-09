@@ -6,7 +6,7 @@ Bugün Yazılım Yöneticisi olarak [@setur](https://github.com/setur)'da görev
 
 Kurumsaldaki hayatımın yanısıra çeşitli platformlarda yazılım sektörü ve yazılım geliştirme ekseninde içerik üretiyor ve konuşmalar yapıyorum.
 
-Daha fazla detay için [eser.ozvataf.com](eser.ozvataf.com) adresine uğrayabilirsiniz. Bu hesap altında çoğunlukla açık kaynak projelerimi, destek sağladığım projeleri, PoC'ler ve diğer çalışma kalıntılarını bulabilirsiniz.
+Daha fazla detay için [eser.ozvataf.com](https://eser.ozvataf.com) adresine uğrayabilirsiniz. Bu hesap altında çoğunlukla açık kaynak projelerimi, destek sağladığım projeleri, PoC'ler ve diğer çalışma kalıntılarını bulabilirsiniz.
 
 <!--
 **eserozvataf/eserozvataf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
