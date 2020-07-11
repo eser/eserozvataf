@@ -2,11 +2,11 @@ Merhaba 👋  İsmim Eser Özvataf.
 
 Yazılım geliştirme yolculuğuma programcı titriyle başladım. Geride bıraktığım 18 yılda birçok geçiş dönemi yaşadım ve deneyimler biriktirdim.
 
-Bugün Yazılım Yöneticisi olarak Setur'da görev almaktayım. Mühendislik yönetimi, kültürel dönüşüm, organizasyon çevikliği, çevik liderlik, ürün odaklı geliştirme, çözüm mimarisi, IT süreç yönetimi ve DevOps eksenli konularda fayda sağlamaya çalışıyorum.
+Bugün Yazılım Yöneticisi olarak [@setur](https://github.com/setur)'da görev almaktayım. Mühendislik yönetimi, kültürel dönüşüm, organizasyon çevikliği, çevik liderlik, ürün odaklı geliştirme, çözüm mimarisi, IT süreç yönetimi ve DevOps eksenli konularda fayda sağlamaya çalışıyorum.
 
 Kurumsaldaki hayatımın yanısıra çeşitli platformlarda yazılım sektörü ve yazılım geliştirme ekseninde içerik üretiyor ve konuşmalar yapıyorum.
 
-Daha fazla detay için [eser.ozvataf.com](eser.ozvataf.com) adresine uğrayabilirsiniz. 
+Daha fazla detay için [eser.ozvataf.com](https://eser.ozvataf.com) adresine uğrayabilirsiniz. Bu hesap altında çoğunlukla açık kaynak projelerimi, destek sağladığım projeleri, PoC'ler ve diğer çalışma kalıntılarını bulabilirsiniz.
 
 <!--
 **eserozvataf/eserozvataf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
