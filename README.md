@@ -1,24 +1,12 @@
-Merhaba 👋  İsmim Eser Özvataf.
+<h1>👋 Hello there, I'm Eser.</h1>
 
-Yazılım geliştirme yolculuğuma programcı titriyle başladım. Geride bıraktığım 18 yılda birçok geçiş dönemi yaşadım ve deneyimler biriktirdim.
+Here are some details about me and my profile on GitHub:
 
-Bugün Yazılım Yöneticisi olarak [@setur](https://github.com/setur)'da görev almaktayım. Mühendislik yönetimi, kültürel dönüşüm, organizasyon çevikliği, çevik liderlik, ürün odaklı geliştirme, çözüm mimarisi, IT süreç yönetimi ve DevOps eksenli konularda fayda sağlamaya çalışıyorum.
+- ℹ️ My technical skills, work experience, certifications can be found at [eser.ozvataf.com](https://eser.ozvataf.com)
+- 🔭 I’m currently working on [hex](https://github.com/eserozvataf/hex).
+- 💬 Ask me about: JavaScript, TypeScript, Web Development, Full-Stack Development
+- 📫 How to reach me: eser@ozvataf.com
 
-Kurumsaldaki hayatımın yanısıra çeşitli platformlarda yazılım sektörü ve yazılım geliştirme ekseninde içerik üretiyor ve konuşmalar yapıyorum.
-
-Daha fazla detay için [eser.ozvataf.com](https://eser.ozvataf.com) adresine uğrayabilirsiniz. Bu hesap altında çoğunlukla açık kaynak projelerimi, destek sağladığım projeleri, PoC'ler ve diğer çalışma kalıntılarını bulabilirsiniz.
-
-<!--
-**eserozvataf/eserozvataf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eserozvataf&layout=compact&hide=html" alt="eserozvataf" /></p>
