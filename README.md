@@ -3,7 +3,7 @@
 Here are some details about me and my profile on GitHub:
 
 - ℹ️ My technical skills, work experience, certifications can be found at [eser.ozvataf.com](https://eser.ozvataf.com)
-- 🔭 I’m currently working on [hex](https://github.com/eserozvataf/hex) and [fetchp](https://github.com/eserozvataf/fetchp).
+- 🔭 I’m currently working on [hex](https://github.com/eserozvataf/hex), [hex-service](https://github.com/eserozvataf/hex-service), [temporal-parse](https://github.com/eserozvataf/temporal-parse), and [fetchp](https://github.com/eserozvataf/fetchp).
 - 💬 Ask me about: JavaScript, TypeScript, Web Development, Full-Stack Development
 - 📫 How to reach me: eser@ozvataf.com
 
