@@ -5,16 +5,12 @@ src="https://img.shields.io/twitter/follow/eserozvataf?logo=twitter&style=for-th
 /></a><a href="https://www.github.com/eserozvataf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eserozvataf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="left">
-  <a href="https://eser.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/eserozvataf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/eserozvataf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-  <a href="https://www.youtube.com/c/EserOzvataf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-</p>
 
 Here are some details about me and my profile on GitHub:
 
 - ℹ️ My technical skills, work experience, certifications can be found at [eser.ozvataf.com](https://eser.ozvataf.com)
+- ✍️ I'm blogging at [eser.dev](https://eser.dev)
+- 🎬 I'm streaming at [youtube.com/EserOzvataf](https://youtube.com/EserOzvataf)
 - 🔭 I’m currently working on [hex](https://github.com/eserozvataf/hex), [hex-service](https://github.com/eserozvataf/hex-service), [temporal-parse](https://github.com/eserozvataf/temporal-parse), and [fetchp](https://github.com/eserozvataf/fetchp).
 - 💬 Ask me about: JavaScript, TypeScript, Web Development, Full-Stack Development
 - 📫 How to reach me: [superpeer.com/eser](https://superpeer.com/eser)
