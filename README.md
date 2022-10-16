@@ -8,11 +8,13 @@ src="https://img.shields.io/github/followers/eserozvataf?logo=github&style=for-t
 
 Here are some details about me and my profile on GitHub:
 
+- 💼 I'm the CTO of [datapad](https://www.datapad.io/)
+- 🫂 I'm the Founder of [10fwd](https://10forward.io/)
 - ℹ️ My technical skills, work experience, certifications can be found at [eser.ozvataf.com](https://eser.ozvataf.com)
 - ✍️ I'm blogging at [eser.dev](https://eser.dev)
 - 🎬 I'm streaming at [youtube.com/EserOzvataf](https://youtube.com/EserOzvataf)
 - 🔭 I’m currently working on [hex](https://github.com/eserozvataf/hex), [hex-service](https://github.com/eserozvataf/hex-service), [temporal-parse](https://github.com/eserozvataf/temporal-parse), and [fetchp](https://github.com/eserozvataf/fetchp).
-- 💬 Ask me about: JavaScript, TypeScript, Web Development, Full-Stack Development
+- 💬 Ask me about: Software Craftsmanship, DevOps, Full-Stack Development, Web Development, JavaScript, TypeScript
 - 📫 How to reach me: [superpeer.com/eser](https://superpeer.com/eser)
 
 <br />
