@@ -8,7 +8,6 @@ src="https://img.shields.io/github/followers/eserozvataf?logo=github&style=for-t
 
 Here are some details about me and my profile on GitHub:
 
-- 💼 I'm the CTO of [datapad](https://www.datapad.io/)
 - 🫂 I'm the Founder of [10fwd](https://10forward.io/)
 - ℹ️ My technical skills, work experience, certifications can be found at [eser.ozvataf.com](https://eser.ozvataf.com)
 - ✍️ I'm blogging at [eser.dev](https://eser.dev)
