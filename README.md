@@ -1,7 +1,7 @@
 <h1>👋 Hello, I'm Eser.</h1>
 
-<a href="https://www.twitter.com/eserozvataf" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/eserozvataf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/eser" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/eser?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/eserozvataf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eserozvataf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
